@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Color Sequence</string>
+    <string name="heading">🌈 Color Sequence</string>
+    <string name="watch">👁 Watch Carefully!</string>
+    <string name="player_turn">👤 Your Turn</string>
+    <string name="player_lost">🤡 You Lost…</string>
+    <string name="default_score">Score: 0</string>
+    <string name="startBtn">Start Game!</string>
+</resources>
